@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Sreekarthik P L</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Computer Science Engineering with specialization in Cybersecurity**
 
-- 💬 Ask me about **Python, MYSQL**
+- 💬 Ask me about **Python, MYSQL, HTML**
 
-- 📫 How to reach me **sreekarthikgit@gmail.com**
+- 📫 How to reach me **sreekarthik24clt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
